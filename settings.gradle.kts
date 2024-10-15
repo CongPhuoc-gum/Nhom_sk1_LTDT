@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BAIGK_LTDT"
+rootProject.name = "BaIGiuaKi_APPQLCTNA"
 include(":app")
  
